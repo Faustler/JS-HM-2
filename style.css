@@ -1,0 +1,37 @@
+body{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    background-color: black;
+}
+
+h1{
+    font-size: 65px;
+    font-family: 'Montserrat',sans-serif;
+    font-weight: 700;
+    text-align: center;
+    color: white;
+}
+input{
+    border: none;
+    font-size: 20px;
+    font-family: 'Montserrat',cursive;
+    border-radius: 30px;
+    width: 100%;
+}
+li{
+    font-size: 20px;
+    font-family: 'Montserrat',sans-serif;
+    font-weight: 300;
+    color: white;
+}
+span{
+    color:red;
+    
+}
+button{
+    padding: 10px 100px;
+    border: none;
+    border-radius: 30px;
+    font-size: 16px;
+}
